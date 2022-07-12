@@ -1,0 +1,85 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Abril Fatface', cursive;
+}
+
+.navbar
+{
+    background:black;
+}
+.navbar li
+{
+    color:white;
+}
+#wall
+{
+    color:white;
+    background:url("./images/evb.jpg")center center fixed no-repeat;
+    background-size: cover;
+    margin-left: 0;
+    min-width:100%;
+    min-height:60vh;
+}
+nav .navbar-brand
+{
+    color:white;
+    background: -webkit-linear-gradient(#eee,#10BCCA);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+nav .navbar-brand:hover
+{
+    color:white;
+    background: -webkit-linear-gradient(#eee,#10BCCA);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+nav .nav-link
+{
+    color:white;
+}
+
+nav .nav-link:hover
+{
+    color:white;
+    text-decoration: underline;
+    text-decoration-color: #10BCCA;
+    text-decoration-thickness: 3px;
+}
+#wall
+{
+    text-align: center;
+    padding:70px 0;
+}
+.hea
+{
+    font-size:4em;
+  background: -webkit-linear-gradient(#eee,#10BCCA);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.card
+{
+    width:100%;
+}
+.Products-head
+{
+    text-align: center;
+    font-size:4em;
+    background: -webkit-linear-gradient(#eee,#10BCCA);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.buy-button
+{
+    color:white;
+    background:#10BCCA;
+    border:#10BCCA;
+    padding:10px;
+    border-radius: 20%;
+}
+form{
+    width:100%;
+    background:#10BCCA;
+}
